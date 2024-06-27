@@ -81,11 +81,16 @@ achieved through the ads.
 Industry Benchmarks
 To guide the analysis, the following industry benchmarks are 
 considered:
-- Google Ads:
+- Google Ads:-
 - CTR: 8-10%
-- Traffic to Lead: 7-8%
-- Lead to Call: 25-30%
+- Traffic to Lead:-
+-  7-8%
+- Lead to Call:-
+-  25-30%
 - Facebook Ads:
-- CTR: 2-3%
-- Traffic to Lead: 12-15%
-- Lead to Call: 12-15%
+- CTR:-
+-  2-3%
+- Traffic to Lead:-
+-  12-15%
+- Lead to Call:-
+-  12-15%
