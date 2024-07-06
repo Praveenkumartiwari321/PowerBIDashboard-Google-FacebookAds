@@ -16,7 +16,7 @@ This README file provides an outline for the analysis and evaluation of marketin
 ## Introduction:
 In today's competitive digital marketing landscape, the ability to effectively analyze and optimize advertising campaigns is crucial for business success. This report aims to evaluate and enhance the performance of marketing campaigns conducted on two major platforms: Google Ads and Facebook Ads. By scrutinizing the data from multiple campaigns and ad sets, we seek to identify opportunities for scaling successful strategies, addressing underperformance issues, and rationalizing overall marketing efforts.
 
-## Objective
+## Objective:
 The objective of this assignment is to evaluate the ability to analyze marketing data from multiple channels, derive meaningful insights, and provide actionable recommendations. The specific goals are to:
 1. Clean and prepare the provided data sets to ensure accuracy and consistency.
 2. Conduct a descriptive analysis to summarize key metrics for each channel and ad set.
